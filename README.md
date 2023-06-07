@@ -27,6 +27,7 @@ To develop a Django application to store and retrieve data from a database using
    Create a students database with 10 fields using runservercommand
 admin.py
 
+### PROGRAM:
 from django.contrib import admin
 from .models import Student,StudentAdmin
 admin.site.register(Student,StudentAdmin)
