@@ -54,8 +54,8 @@ class StudentAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 
-![ex2](https://github.com/22009058/ORM/assets/121917232/9219bcc0-fb43-4911-87c7-df064a3f408f)
 
+![ex200](https://github.com/22009058/ORM/assets/121917232/7b17769a-3754-4869-96be-8fc2efd55d71)
 
 
 ## RESULT
